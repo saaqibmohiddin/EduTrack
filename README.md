@@ -154,7 +154,7 @@ It demonstrates basic programming concepts, file handling, JSON data storage, an
 ### Computer Science & Engineering | Artificial Intelligence
 
 <p>
-  <b>Python Developer | Student | Technology Enthusiast</b>
+  <b>Python Developer | Technology Enthusiast</b>
 </p>
 
 Building practical applications with Python and modern technologies.
