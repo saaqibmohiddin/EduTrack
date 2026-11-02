@@ -1,4 +1,4 @@
-# 🎓 STUDENT MANAGEMENT SYSTEM
+
 
 <div align="center">
 
@@ -145,7 +145,6 @@ It demonstrates basic programming concepts, file handling, JSON data storage, an
 
 ---
 
-## 👨‍💻 Developer
 
 <div align="center">
 
