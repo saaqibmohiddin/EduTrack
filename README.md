@@ -150,9 +150,6 @@ It demonstrates basic programming concepts, file handling, JSON data storage, an
 
 <div align="center">
 
-## 👨‍💻 DEVELOPED BY
-
-# MOHAMMED SAAQIB MOHIDDIN
 
 ### Computer Science & Engineering | Artificial Intelligence
 
