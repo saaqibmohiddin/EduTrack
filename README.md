@@ -141,6 +141,25 @@ It demonstrates basic programming concepts, file handling, JSON data storage, an
 
 </div>
 
+
+
+
+
+<div align="center">
+
+## 🏫 CAMPUS ADMINISTRATION
+
+### ORGANIZED CAMPUS RECORDS
+
+**Manage • Organize • Simplify**
+
+![Record Management](https://img.shields.io/badge/RECORD_MANAGEMENT-123B38?style=for-the-badge)
+![Campus Organization](https://img.shields.io/badge/CAMPUS_ORGANIZATION-20A486?style=for-the-badge)
+
+<sub>Student Information | Organized Records | Simplified Administration</sub>
+
+</div>
+
 ---
 
 
