@@ -124,9 +124,20 @@ It demonstrates basic programming concepts, file handling, JSON data storage, an
 ---
 
 
-**🎓 STUDENT & ACADEMIC MANAGEMENT**
+<div align="center">
 
-**📚 CAMPUS ADMINISTRATION**
+## 🎓 STUDENT & ACADEMIC MANAGEMENT
+
+### SMART STUDENT RECORDS
+
+**Organize • Manage • Maintain**
+
+![Student Records](https://img.shields.io/badge/STUDENT_RECORDS-101B35?style=for-the-badge)
+![Academic Data](https://img.shields.io/badge/ACADEMIC_DATA-2457A6?style=for-the-badge)
+
+<sub>Organized Student Information | Simple Academic Record Management</sub>
+
+</div>
 
 </div>
 
