@@ -123,19 +123,6 @@ It demonstrates basic programming concepts, file handling, JSON data storage, an
 
 ---
 
-## 🎨 Design Theme
-
-<div align="center">
-
-### ACADEMIC BLUE × MIDNIGHT NAVY
-
-| Design Element | Colour | Hex Code |
-|:---|:---|:---|
-| Primary Theme | Midnight Navy | `#101B35` |
-| Secondary Theme | Academic Blue | `#2457A6` |
-| Accent Colour | Success Teal | `#20A486` |
-| Highlight Colour | Premium Gold | `#E8B95B` |
-| Text Colour | White | `#FFFFFF` |
 
 **🎓 STUDENT & ACADEMIC MANAGEMENT**
 
