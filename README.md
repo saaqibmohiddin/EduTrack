@@ -146,28 +146,33 @@ It demonstrates basic programming concepts, file handling, JSON data storage, an
 ---
 
 
+---
+
 <div align="center">
 
-### MOHAMMED SAAQIB MOHIDDIN
+## 👨‍💻 DEVELOPED BY
 
-**Computer Science & Engineering | Artificial Intelligence**
+# MOHAMMED SAAQIB MOHIDDIN
+
+### Computer Science & Engineering | Artificial Intelligence
+
+<p>
+  <b>Python Developer | Student | Technology Enthusiast</b>
+</p>
 
 Building practical applications with Python and modern technologies.
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-saaqibmohiddin-101B35?style=for-the-badge&logo=github&logoColor=white)](https://github.com/saaqibmohiddin)
+<a href="https://github.com/saaqibmohiddin">
+  <img src="https://img.shields.io/badge/DEVELOPER-SAAQIB_MOHIDDIN-101B35?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/PROJECT-STUDENT_MANAGEMENT-2457A6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TECHNOLOGY-PYTHON-20A486?style=for-the-badge"/>
 
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:20A486,50:2457A6,100:101B35&section=footer" width="100%" />
-
-### 🎓 ORGANIZING STUDENT RECORDS WITH PYTHON
-
-**Smart Records • Simple Management • Better Organization**
-
-</div>
